@@ -7,9 +7,9 @@ The Big Taste Bites menu is a simple, visually appealing webpage that displays a
 🧁 What's on the Menu?
 The menu includes a variety of items such as:
 
-Snacks: Chinchin, Meat Pie, Doughnut, Puff Puff, Small Chops
+Snacks: Chinchin, Kulikuli....
 
-Drinks: Chapman, Zobo, Smoothies, Soft Drinks, Water
+Drinks: Chapman, Zobo, Tigernut drink
 
 🛠️ Technologies Used
 HTML
@@ -27,5 +27,5 @@ Making the design mobile-friendly
 
 🚀 Live Preview
 👉 Click here to view the live menu
-(Replace with your actual GitHub Pages link)
+ https://adeife25.github.io/BigTasteBites/
 
